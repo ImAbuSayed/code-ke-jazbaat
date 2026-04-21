@@ -1,0 +1,32 @@
+Lyrics
+[Verse 1]
+बेसिक से शुरू किया था, अब function बनता हूँ,
+Bug से डरता था पहले, अब उसे मिटाता हूँ।
+Sayed ने लिखी है ये coding की दास्तान,
+Debugging के संग, हर night और dawn।
+[Chorus]
+Logic में बसा है मेरा इश्क़,
+Code के jazbaat हैं कुछ खास।
+Git में commit हुआ मेरा दिल,
+Merging में भी है प्यार का एहसास।
+[Verse 2]
+Syntax की तरह तू सही लगती है,
+NullPointerException सी कमी लगती है।
+Loop में फंसा है मेरा ये प्यार,
+Break statement में छुपी है फरियाद।
+[Bridge]
+Server पे deploy कर दूँ क्या,
+या locally ही रख लूँ तुझे?
+Cloud में तेरी यादें रखी हैं,
+Backup कभी delete ना हो तेरा!
+[Outro]
+Code लिखूँ या तुझे call करूँ,
+Error मिले तो फिर solve करूँ।
+Runtime में तेरा ही नाम चले,
+Sayed के दिल में तू always रहे!
+Written By
+Abu Sayed
+Date
+March 1, 2025 at 6:40 AM
+Playlist
+Code and Heartbeats by Abu Sayed
